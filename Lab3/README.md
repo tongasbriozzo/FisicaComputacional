@@ -1,1 +1,1 @@
-# Practical Work 3
+# Laboratory 3: Pseudo-Random Numbers
