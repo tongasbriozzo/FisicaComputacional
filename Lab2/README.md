@@ -1,1 +1,1 @@
-# Practical Work 2
+# Laboratory 2: Heat Diffusion
