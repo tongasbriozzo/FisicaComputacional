@@ -8,6 +8,6 @@ Practical Work:
 - Laboratory 1b: Chaotic Systems
 - Laboratory 2: Heat Diffusion
 - Laboratory 3: Pseudo-Random Numbers
-- Laboratory 4:
+- Laboratory 4: Ising 2D model
 - Laboratory 5:
 - Final Exam: 
