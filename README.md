@@ -6,8 +6,8 @@ Practical Work:
 
 - Laboratory 1a: Numerical Error
 - Laboratory 1b: Chaotic Systems
-- Laboratory 2:
-- Laboratory 3:
+- Laboratory 2: Heat Diffusion
+- Laboratory 3: Pseudo-Random Numbers
 - Laboratory 4:
 - Laboratory 5:
 - Final Exam: 
