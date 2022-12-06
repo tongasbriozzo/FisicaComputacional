@@ -9,5 +9,5 @@ Practical Work:
 - Laboratory 2: Heat Diffusion
 - Laboratory 3: Pseudo-Random Numbers
 - Laboratory 4: Ising 2D model
-- Laboratory 5:
+- Laboratory 5: Molecular Dynamics
 - Final Exam: 
