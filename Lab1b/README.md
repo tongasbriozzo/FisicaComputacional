@@ -1,1 +1,1 @@
-# Practical Work 1b
+# Laboratory 1b: Chaotic Systems
